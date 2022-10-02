@@ -5,7 +5,7 @@
 * In this repo, I will record the learning process from scratch to a back-end developer. If you think this repo is helpful to you, please give me a ⭐!
 
 ## Some useful tools 
-* [HTTP status cheatsheet](https://wangchujiang.com/reference/docs/http-status-code.html)
+* [HTTP status cheatsheet](https://wangchujiang.com/reference/docs/http-status-code.html) (Chinese)
 
 ## Tutorial (with url)
 
